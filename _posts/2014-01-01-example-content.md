@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Frequently Asked Questions about Fins
+title: Fins FAQ
 ---
 
 ## Who is Fins?
-He is IM John Bartholomew & Chess YouTuber: http://youtube.com/johnbartholomewchess
+He is IM John Bartholomew & Chess YouTuber: [Check it out](http://youtube.com/johnbartholomewchess)
 
-Also, you should support the channel by donating here: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FURS92M5WXVCG
+Also, you should support the channel by donating [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FURS92M5WXVCG)
 
-Follow his twitter too: http://twitter.com/fins0905
+Follow his twitter too: [@fins0905](http://twitter.com/fins0905)
 
 ## What's the deal with the giant chess piece in the background?
 Fins won it at a tournament. It was the trophy.
