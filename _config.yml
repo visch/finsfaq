@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Fins FAQ
+tagline:             Things people ask on a stream chat, every single time.
+url:                 http://kozzi.github.io/finsfaq
 paginate:            1
 baseurl:             "http://kozzi.github.io/finsfaq/"
 
@@ -19,9 +19,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Charing Wong
+  url:               https://twitter.com/kozzi
+  email:             kozzi@thisisalie.com
 
 # Custom vars
 version:             2.0.0
