@@ -3,17 +3,17 @@ layout: post
 title: Fins FAQ
 ---
 
-## Who is Fins?
+#### Who is Fins?
 He is IM John Bartholomew & Chess YouTuber: [Check it out](http://youtube.com/johnbartholomewchess)
 
 Also, you should support the channel by donating [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FURS92M5WXVCG)
 
 Follow his twitter too: [@fins0905](http://twitter.com/fins0905)
 
-## What's the deal with the giant chess piece in the background?
+#### What's the deal with the giant chess piece in the background?
 Fins won it at a tournament. It was the trophy.
 
-## Where does Fins mean?
+#### Where does Fins mean?
 He was listening to the Jimmy Buffett when creating an account, and the username stuck ever since.
 
 
