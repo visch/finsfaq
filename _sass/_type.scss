@@ -103,7 +103,6 @@ a[href^="#fnref:"] {
 
 // List of footnotes
 .footnotes {
-  margin-top: 2rem;
   font-size: 85%;
 }
 
@@ -120,4 +119,13 @@ a[href^="#fnref:"] {
   max-width: 300px;
   width: 300px;
   padding: 8px 12px;
+  
+  a {
+    color: skyblue;
+    
+    &:hover,
+    &:focus {
+      color: deepskyblue;
+    }
+  }
 }
