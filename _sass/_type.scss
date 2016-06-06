@@ -115,3 +115,9 @@ a[href^="#fnref:"] {
   font-size: 1.25rem;
   font-weight: 300;
 }
+
+.tooltip-inner {
+  max-width: 300px;
+  width: 300px;
+  padding: 8px 12px;
+}
