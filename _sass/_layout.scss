@@ -16,7 +16,6 @@ div#events {
   position: fixed;
   top: 10px;
   right: 10px;
-  border-radius: 5px;
   
   @media (max-width: 960px) {
     position: static;
@@ -24,7 +23,7 @@ div#events {
   }
   
   h1 {
-    color: #bbb;
+    color: #666;
     font-size: .8em;
     text-transform: uppercase;
     margin: 10px;
@@ -41,17 +40,18 @@ div#events {
     
     p.event-date {
       font-size: 0.8em;
-      color: #ccc;
+      color: #aaa;
     }
     
     p.event-name {
-      font-size: 1.2em;
+      font-size: 1em;
       text-transform: uppercase;
       color: #666;
-      
-      span.event-type {
-        font-weight: bold;
-      }
+      font-weight: bold;
+    }
+    
+    p.event-info {
+      font-size: .8em;
     }
   }
 }
