@@ -3,9 +3,9 @@
   {% for event in site.data.events %}
     <div class="event">
       <p class="event-date">{{ event.date }}</p>
-      <p class="event-name"><span class="event-type">{{ event.type }}:</span> {{ event.name }}</p>
-      <p class="event-city">{{ event.city }}</p>
-      <p class="event-info"><a href="{{ event.url }}">More info</a> | <a href="{{ event.source}}">Source</a></p>
+      <p class="event-name">{{ event.name }}</p>
+      <p class="event-type">{{ event.type }}</p> 
+      <p class="event-info">{{ event.city }} | <a href="{{ event.url }}">More info</a> | <a href="{{ event.source}}">Source</a></p>
     </div>
   {% endfor %}
 </div>
