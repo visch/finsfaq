@@ -26,6 +26,7 @@ div#events {
     color: #fff;
     font-size: .8em;
     text-transform: uppercase;
+    margin: 10px;
   }
   
   div.event {
@@ -40,7 +41,10 @@ div#events {
     p.event-name {
       font-size: 1.2em;
       text-transform: uppercase;
-      font-weight: bold;
+      
+      span.event-type {
+        font-weight: bold;
+      }
     }
   }
 }
