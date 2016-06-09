@@ -1,18 +1,18 @@
-- event: Western Invitational Chess Camp
+- name: Western Invitational Chess Camp
   date: July 10-14, 2016
   city: Tucson, AZ
   url: http://http://westernchesscamp.com
   type: Chess camp
   source: https://twitter.com/fins0905/status/735572346778456065
 
-- event: 5th Annual Twin Ports Open
+- name: 5th Annual Twin Ports Open
   date: August 6-7, 2016
   city: Duluth, MN
   url: https://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=n6Gh
   type: Tournament
   source: https://www.youtube.com/watch?v=FJ7wUIuwuJk&t=46m23s
   
-- event: MEGA Master Tour Chess Camp
+- name: MEGA Master Tour Chess Camp
   date: August 15-19, 2016
   city: Charlotte, NC
   url: http://www.charlottechesscenter.org/#!master-tour-camps/copd
