@@ -33,12 +33,12 @@ div#events {
   
   div.event {
     margin: 10px;
-    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
     
     p.event-date {
       font-size: 0.8em;
       color: #ccc;
-      margin-bottom: .5em;
+      margin: .5em;
     }
     
     p.event-name {
