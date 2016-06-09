@@ -15,9 +15,10 @@
 
       <main>
         {{ content }}
-        {% include events.html %}
       </main>
-
+      
+      {% include events.html %}
+    
       <footer class="footer">
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
