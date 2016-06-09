@@ -23,21 +23,24 @@ div#events {
   }
   
   h1 {
-    font-color: #fff;
-    text-tranform: uppercase;
+    color: #fff;
+    font-size: .8em;
+    text-transform: uppercase;
   }
   
   div.event {
     margin: 10px;
+    border-bottom: 1px solid #ccc;
     
     p.event-date {
       font-size: 0.8em;
-      color: #333;
-      text-transform: uppercase;
+      color: #ccc;
     }
     
     p.event-name {
       font-size: 1.2em;
+      text-transform: uppercase;
+      font-weight: bold;
     }
   }
 }
