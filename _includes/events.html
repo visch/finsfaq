@@ -4,8 +4,7 @@
     <div class="event">
       <p class="event-date">{{ event.date }}</p>
       <p class="event-name"><a href="{{ event.url }}">{{ event.name }}</a></p>
-      <p class="event-type">{{ event.type }}</p> 
-      <p class="event-info">{{ event.city }} | <a href="{{ event.source}}">Source</a></p>
+      <p class="event-info">{{ event.type }} | {{ event.city }} | <a href="{{ event.source}}">Source</a></p>
     </div>
   {% endfor %}
 </div>
