@@ -18,8 +18,9 @@ div#events {
   right: 10px;
   border-radius: 5px;
   
-  @media (max-width: 500px) {
+  @media (max-width: 960px) {
     position: static;
+    width: 100%;
   }
   
   h1 {
@@ -27,6 +28,7 @@ div#events {
     font-size: .8em;
     text-transform: uppercase;
     margin: 10px;
+    text-align: center;
   }
   
   div.event {
@@ -36,7 +38,7 @@ div#events {
     p.event-date {
       font-size: 0.8em;
       color: #ccc;
-      margin: 0;
+      margin-bottom: .5em;
     }
     
     p.event-name {
