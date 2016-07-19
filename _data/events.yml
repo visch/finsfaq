@@ -1,9 +1,9 @@
-- name: Western Invitational Chess Camp
-  date: July 10-14, 2016
-  city: Tucson, AZ
-  url: http://westernchesscamp.com
-  type: Camp
-  source: https://twitter.com/fins0905/status/735572346778456065
+- name: Chess Castle of Minnesota Lecture
+  date: July 27, 2016
+  city: Minneapolis, MN
+  url: http://www.chesscastle.com/home
+  type: Lecture
+  source: https://www.youtube.com/watch?v=13vVuMRG10A&t=36m55s
 
 - name: 5th Annual Twin Ports Open
   date: August 6-7, 2016
