@@ -1,20 +1,6 @@
-- name: Chess Castle of Minnesota Lecture
-  date: July 27, 2016
-  city: Minneapolis, MN
-  url: http://www.chesscastle.com/home
-  type: Lecture
-  source: https://www.youtube.com/watch?v=13vVuMRG10A&t=36m55s
-
-- name: 5th Annual Twin Ports Open
-  date: August 6-7, 2016
-  city: Duluth, MN
-  url: http://onlineregistration.cc/tournaments/index.php?view=zNTizdLa&tid=n6Gh
-  type: Tournament
-  source: https://www.youtube.com/watch?v=FJ7wUIuwuJk&t=46m23s
-  
-- name: MEGA Master Tour Chess Camp
-  date: August 15-19, 2016
-  city: Charlotte, NC
-  url: http://www.charlottechesscenter.org/#!master-tour-camps/copd
-  type: Camp
-  source: https://www.youtube.com/watch?v=FJ7wUIuwuJk&t=47m12s
+- name: New Orleans Chess Fest
+  date: October 8, 2016
+  city: New Orleans, LA
+  url: http://www.nolachessfest.com
+  type: Festival
+  source: https://www.facebook.com/john.bartholomew.33/posts/10100752623304105
