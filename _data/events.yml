@@ -1,6 +1,27 @@
-- name: New Orleans Chess Fest
-  date: October 8, 2016
-  city: New Orleans, LA
-  url: http://www.nolachessfest.com
-  type: Festival
-  source: https://youtu.be/EGoNq7KbuI4?t=1h40m26s
+-- name: Blizzard vs. Arch Bishops
+-  date: January 25, 2017 @ 8:30 pm CST
+-  city: chess.com
+-  url: https://www.chess.com/club/minnesota-blizzard-fan-club
+-  type: Pro Chess League Week 3
+-  source: https://www.chess.com/prochess
+-
+-- name: Blizzard vs. Destiny
+-  date: February 1, 2017 @ 8:30 pm CST
+-  city: chess.com
+-  url: https://www.chess.com/club/minnesota-blizzard-fan-club
+-  type: Pro Chess League Week 4
+-  source: https://www.chess.com/prochess
+-
+-- name: Blizzard vs. Express
+-  date: February 11, 2017 @ 9:15 am CST
+-  city: chess.com
+-  url: https://www.chess.com/club/minnesota-blizzard-fan-club
+-  type: Pro Chess League Week 5
+-  source: https://www.chess.com/prochess
+-
+-- name: Blizzard vs. Windmills
+-  date: February 15, 2017 @ 8:30 pm CST
+-  city: chess.com
+-  url: https://www.chess.com/club/minnesota-blizzard-fan-club
+-  type: Pro Chess League Week 6
+-  source: https://www.chess.com/prochess
