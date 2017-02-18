@@ -1,20 +1,20 @@
 - name: Minnesota Open Tournament
-  date: February 17-19, 2017
-  city: Minneapolis, MN
-  url: http://www.minnesotachess.org
-  type: Tournament
-  source: http://www.minnesotachess.org/news_detail.php?id=51
+date: February 17-19, 2017
+city: Minneapolis, MN
+url: http://www.minnesotachess.org
+type: Tournament
+source: http://www.minnesotachess.org/news_detail.php?id=51
 
 - name: PRO Chess: Blizzard vs. Pawngrabbers
-  date: February 22, 2017 @ 8:30 pm CST
-  city: chess.com
-  url: https://www.chess.com/club/minnesota-blizzard-fan-club
-  type: PRO Chess League Week 7
-  source: https://www.chess.com/prochess
+date: February 22, 2017 @ 8:30 pm CST
+city: chess.com
+url: https://www.chess.com/club/minnesota-blizzard-fan-club
+type: PRO Chess League Week 7
+source: https://www.chess.com/prochess
 
 - name: Minnesota Closed Tournament
-  date: March 17-19, 2017
-  city: Minneapolis, MN
-  url: http://www.minnesotachess.org
-  type: Tournament
-  source: http://www.minnesotachess.org/news_detail.php?id=51
+date: March 17-19, 2017
+city: Minneapolis, MN
+url: http://www.minnesotachess.org
+type: Tournament
+source: http://www.minnesotachess.org/news_detail.php?id=51
