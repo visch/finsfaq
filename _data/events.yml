@@ -1,6 +1,20 @@
-- name: 2017 CCCSA GM/IM Norm Invitational
-  date: Mar 29 - Apr 2, 2017
-  city: Charlotte, NC
-  url: https://www.charlottechesscenter.org/cccsa-gmim-norm-invitational
-  type: Tournament
-  source: https://youtu.be/qm7PaMQLR_4?t=51m30s
+- name: Southwest Open
+date: Aug. 31 - Sep. 4
+city: Irving, TX
+url: http://www.dallaschess.com/2017SWOpen/index.html
+type: Tournament
+source: https://www.youtube.com/watch?v=B0jq7L1UjEE
+
+- name: Oslo Chess Festival
+date: Sep. 29 - Oct. 8
+city: Fornebu, Norway
+url: http://www.oslochessfestival.no/
+type: Tournament
+source: https://www.youtube.com/watch?v=B0jq7L1UjEE
+
+- name: Stavanger Open
+date: Oct. 11 - 15
+city: Stavanger, Norway
+url: http://tournamentservice.com/invitation.aspx?TID=StavangerOpen2017-StavangerSjakklubb
+type: Tournament
+source: https://www.youtube.com/watch?v=B0jq7L1UjEE
